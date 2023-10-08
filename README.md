@@ -4,6 +4,8 @@ A simple ReactJS app that fetches weather information based on the city input.
 
 ## Demo
 
+[![Demo Video](https://img.youtube.com/vi/yJbSH6bFwaM/0.jpg)](https://youtu.be/yJbSH6bFwaM)
+
 [Link to Demo Video](https://youtu.be/yJbSH6bFwaM)
 
 ## Features
